@@ -1,4 +1,4 @@
-Bookinfo Sample
+# Bookinfo Sample
 See https://istio.io/docs/examples/bookinfo/
 
 The application displays information about a book, similar to a single catalog entry of an online book store. Displayed on the page is a description of the book, book details (ISBN, number of pages, and so on), and a few book reviews.
